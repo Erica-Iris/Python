@@ -1,0 +1,4 @@
+requests[socks]
+prettytable
+pyTelegramBotAPI
+GB2260

@@ -1,0 +1,65 @@
+'[
+    {
+        "domain": "ptsbao.club",
+        "expiry": 1586814345.440918,
+        "httpOnly": false,
+        "name": "c_secure_tracker_ssl",
+        "path": "/",
+        "secure": false,
+        "value": "bm9wZQ%3D%3D"
+    },
+    {
+        "domain": "ptsbao.club",
+        "expiry": 1586814345.440884,
+        "httpOnly": false,
+        "name": "c_secure_ssl",
+        "path": "/",
+        "secure": false,
+        "value": "eWVhaA%3D%3D"
+    },
+    {
+        "domain": "ptsbao.club",
+        "expiry": 1586814345.440816,
+        "httpOnly": false,
+        "name": "c_secure_pass",
+        "path": "/",
+        "secure": false,
+        "value": "e4fa3ffa0248da38f68637e4bdad6e27"
+    },
+    {
+        "domain": "ptsbao.club",
+        "expiry": 1586814345.440948,
+        "httpOnly": false,
+        "name": "c_secure_login",
+        "path": "/",
+        "secure": false,
+        "value": "bm9wZQ%3D%3D"
+    },
+    {
+        "domain": "ptsbao.club",
+        "expiry": 1586814345.440615,
+        "httpOnly": false,
+        "name": "c_secure_uid",
+        "path": "/",
+        "secure": false,
+        "value": "NDgx"
+    },
+    {
+        "domain": "ptsbao.club",
+        "httpOnly": false,
+        "name": "PHPSESSID",
+        "path": "/",
+        "secure": false,
+        "value": "t2kgr2rr2q864d95dobpmm7lf2"
+    },
+    {
+        "domain": ".ptsbao.club",
+        "expiry": 1588801535.813145,
+        "httpOnly": true,
+        "name": "__cfduid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "d7a35ef01323871ac743126977cb5bf191586209535"
+    }
+]'
